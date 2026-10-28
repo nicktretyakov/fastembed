@@ -1,0 +1,5 @@
+warning: unused config key `registry.protocol` in `/home/n/.cargo/config.toml`
+warning: unused config key `registry.protocol` in `/home/n/.cargo/config.toml`
+   Compiling text_embeddings v0.1.0 (/mnt/samsung/RUST/text_embeddings)
+    Finished `release` profile [optimized] target(s) in 2.12s
+     Running `target/release/text_embeddings`
